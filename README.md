@@ -23,7 +23,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
+- 👨‍🔬 𝗖𝗵𝗲𝗺𝗶𝗰𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 specialized in 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 from Faculdade de Engenharia da Universidade do Porto (𝗙𝗘𝗨𝗣) 
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
@@ -42,7 +42,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=joaopereiradsantos&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="João's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopereiradsantos&count_private=true&theme=radical" alt="joaopereiradsantos" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiradsantos&count_private=true&theme=radical" alt="joaopereiradsantos" />
 
 ----
 Credit: [Jas-Script](https://github.com/Jas-Script)
