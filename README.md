@@ -24,10 +24,8 @@
 **About Me!**
 
 - 👨‍🔬 𝗖𝗵𝗲𝗺𝗶𝗰𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 specialized in 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 from Faculdade de Engenharia da Universidade do Porto (𝗙𝗘𝗨𝗣) 
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 🌱 Interest in Machine Learning, Process Optimization, Data Visualization and Web Scraping
+- 📫 Email me at [joaopereiradsantos@gmail.com](mailto:joaopereiradsantos@gmail.com).
 
 
 
