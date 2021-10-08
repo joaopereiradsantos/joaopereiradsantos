@@ -22,7 +22,7 @@
 **Business Intelligence Engineer** <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazon.svg" /> 🧑‍💻.
  
 
-  <img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" width="450px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
