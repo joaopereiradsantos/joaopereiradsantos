@@ -39,6 +39,6 @@
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopereiradsantos&count_private=true&theme=graywhite" alt="joaopereiradsantos" />
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+<sub><sup>Credit: [Jas-Script](https://github.com/Jas-Script)</sup></sub>
 
-Last Edited on: 04/01/2021
+Last Edited on: 08/10/2021
